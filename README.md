@@ -1,4 +1,4 @@
-# exploring_NYC_public_schools-data-analysis
+# Exploring_NYC_public_school_test_results_data-analysis
 Using data manipulation to explore and analyse the statistics of test scores in public schools in New York.
 This quick project is mainly focused on training to sort and subset data, rounding values and group summary statistics.
 
